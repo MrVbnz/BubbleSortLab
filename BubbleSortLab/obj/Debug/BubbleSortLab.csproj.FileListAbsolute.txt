@@ -1,0 +1,7 @@
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\bin\Debug\BubbleSortLab.exe.config
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\bin\Debug\BubbleSortLab.exe
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\bin\Debug\BubbleSortLab.pdb
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\obj\Debug\BubbleSortLab.csprojAssemblyReference.cache
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\obj\Debug\BubbleSortLab.csproj.CoreCompileInputs.cache
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\obj\Debug\BubbleSortLab.exe
+C:\Users\vvbnz\source\repos\BubbleSortLab\BubbleSortLab\obj\Debug\BubbleSortLab.pdb
